@@ -1,7 +1,7 @@
 # General information
 version = 20220124075521
-appbase = http://gamemedia2.spiralknights.com/spiral/%VERSION%
-latest = http://gamemedia2.spiralknights.com/spiral/client/getdown.txt
+appbase = https://raw.githubusercontent.com/burgeridiot/thetya-client/refs/heads/main/
+latest = http://raw.githubusercontent.com/burgeridiot/thetya-client/refs/heads/main/getdown.txt
 
 # fallback colors in case of image problems
 ui.background = 000000
@@ -92,7 +92,7 @@ class = com.threerings.projectx.client.ProjectXApp
 client.class = com.threerings.projectx.client.ProjectXApp
 
 # Configure the update UI
-ui.name = Spiral Knights
+ui.name = Deepwoken
 ui.background_image = background.png
 ui.progress_image = progress.png
 ui.progress = 17, 321, 458, 22
@@ -103,13 +103,13 @@ ui.icon = icon_128.png
 ui.icon = icon_32.png
 ui.icon = icon_16.png
 ui.mac_dock_icon = rsrc/ui/icon/desktop.icns
-ui.install_error = http://wiki.spiralknights.com/Technical_issues_FAQ
-ui.install_error.de = http://wiki.spiralknights.com/de/Technical_issues_FAQ
-ui.install_error.es = http://wiki.spiralknights.com/es/Technical_issues_FAQ
-ui.install_error.fr = http://wiki.spiralknights.com/fr/Technical_issues_FAQ
+ui.install_error = https://www.roblox.com/games/4111023553/Deepwoken
+ui.install_error.de = https://www.roblox.com/games/4111023553/Deepwoken
+ui.install_error.es = https://www.roblox.com/games/4111023553/Deepwoken
+ui.install_error.fr = https://www.roblox.com/games/4111023553/Deepwoken
 ui.patch_notes = 365, 250, 112, 26
-ui.patch_notes_url = https://forums.spiralknights.com/en/forum/8
-#ui.patch_notes_url.es = https://forums.spiralknights.com/es/forum/45
+ui.patch_notes_url = https://www.roblox.com/games/4111023553/Deepwoken
+#ui.patch_notes_url.es = https://www.roblox.com/games/4111023553/Deepwoken
 ui.play_again = 117, 224, 256, 62
 ui.play_again_image = playnow.png
 
